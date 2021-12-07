@@ -10,6 +10,10 @@ Hello, I am a first year math graduate student at Colorado State University.
 In my past life, I was a [software engineer](https://www.linkedin.com/in/cl587/) at [Coursera](https://www.coursera.org/), helping to make education accessible to all.
 
 
+# Testing out latex
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
 # Writing
 
 Most of my writing are not publically available, but throughout the years, some have been published on Coursera's tech blog.
