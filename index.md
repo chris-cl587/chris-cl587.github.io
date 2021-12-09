@@ -9,10 +9,11 @@ Hello, I am a first year math graduate student at Colorado State University.
 
 In my past life, I was a [software engineer](https://www.linkedin.com/in/cl587/) at [Coursera](https://www.coursera.org/), helping to make education accessible to all.
 
+# Personal
 
-# Testing out latex
+I grew up in the frozen tundra of Calgary, Alberta. Then I worked in Silicon Valley up in the San Francisco Bay Area for 6 years prior to graduate school. 
 
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+Outside of math, I like to ski, bike, run, and drink coffee. I also enjoy playing and studying poker theory.
 
 # Writing
 
@@ -28,8 +29,11 @@ Most of my writing are not publically available, but throughout the years, some 
 
 # Presentations
 
-Hopefully in due time :)
+* [Dependent Types with Pie](https://www.youtube.com/watch?v=48lio_3FhAo) - As part of the Applied Category Theory seminar at Colorado State University, I presented on the dependent type programming language Pie.
 
 # Papers
 
 Hopefully in due time :)
+
+
+
