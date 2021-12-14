@@ -11,9 +11,9 @@ In my past life, I was a [software engineer](https://www.linkedin.com/in/cl587/)
 
 # Personal
 
-I grew up in the frozen tundra of Calgary, Alberta. Then I worked in Silicon Valley up in the San Francisco Bay Area for 6 years prior to graduate school. 
+I grew up in the frozen tundra of Calgary, Alberta. Then I worked in Silicon Valley up in the San Francisco Bay Area for 6 years prior to coming to graduate school.
 
-Outside of math, I like to ski, bike, run, and drink coffee. I also enjoy playing and studying poker theory.
+Outside of math, I like to drink coffee, play hockey, ski, bike, run. I also enjoy playing and studying poker theory.
 
 # Writing
 
@@ -34,6 +34,4 @@ Most of my writing are not publically available, but throughout the years, some 
 # Papers
 
 Hopefully in due time :)
-
-
 
