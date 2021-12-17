@@ -29,7 +29,7 @@ Most of my writing are not publically available, but throughout the years, some 
 
 # Presentations
 
-* [Dependent Types with Pie](https://www.youtube.com/watch?v=48lio_3FhAo) - As part of the Applied Category Theory seminar at Colorado State University, I presented on the dependent type programming language Pie.
+* [Dependent Types with Pie](https://www.youtube.com/watch?v=48lio_3FhAo) - As part of the [Applied Category Theory Seminar](https://www.math.colostate.edu/~jwilson/ACTS.html) at Colorado State University, I presented on the dependent type programming language Pie.
 
 # Papers
 
