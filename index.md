@@ -11,9 +11,9 @@ In my past life, I was a [software engineer](https://www.linkedin.com/in/cl587/)
 
 # Personal
 
-I grew up in the frozen tundra of Calgary, Alberta. Then I worked in Silicon Valley up in the San Francisco Bay Area for 6 years prior to coming to graduate school.
+I grew up in the frozen tundra of Calgary, Alberta. Then I worked in Silicon Valley up in the San Francisco Bay Area for 6 years prior to coming to graduate school for mathematics.
 
-Outside of math, I like to drink coffee, play hockey, ski, bike, run. I also enjoy playing and studying poker theory.
+Outside of math, I like to drink coffee, play hockey, ski, bike, and run (trail and road). I also enjoy playing and studying poker theory.
 
 # Writing
 
@@ -30,6 +30,10 @@ Most of my writing are not publically available, but throughout the years, some 
 # Presentations
 
 * [Dependent Types with Pie](https://www.youtube.com/watch?v=48lio_3FhAo) - As part of the [Applied Category Theory Seminar](https://www.math.colostate.edu/~jwilson/ACTS.html) at Colorado State University, I presented on the dependent type programming language Pie.
+
+# Teaching
+
+* SP22 - Math 160: Calculus for Physical Scientists I
 
 # Papers
 
