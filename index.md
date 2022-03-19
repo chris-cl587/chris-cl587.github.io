@@ -31,6 +31,7 @@ Most of my writing are not publically available, but throughout the years, some 
 
 * [Dependent Types with Pie](https://www.youtube.com/watch?v=48lio_3FhAo) - As part of the [Applied Category Theory Seminar](https://www.math.colostate.edu/~jwilson/ACTS.html) at Colorado State University, I presented on the dependent type programming language Pie.
 * [Kan Condition for Simplicial Sets](https://www.youtube.com/watch?v=HVYsL8NJKtw) - As part of the ACATs seminar, I presented on how to compute with simplicial sets, a generalization of simplicies, which themselves generalize triangles. In particular, unwrapping the category theoretical definitions and the strong/weak Kan conditions to understand how they provide a useful model for higher categories.
+* [ACM/ACM-W at CSU](https://www.cs.colostate.edu/~acm/) presentation - I presented to the ACM (Association for Computing Machinery) and ACM-Women groups at Colorado State University about interviewing for a technical position, drawing on my previous experiences as an interviewer and designer of interviewing questions.
 
 # Teaching
 
