@@ -5,7 +5,7 @@ layout: default
 
 ![myself](./photos/csu_math_photo.jpeg)
 
-Hello, I am a first year math graduate student at Colorado State University.
+Hello, I am a second year math graduate student at Colorado State University.
 
 In my past life, I was a [software engineer](https://www.linkedin.com/in/cl587/) at [Coursera](https://www.coursera.org/), helping to make education accessible to all.
 
