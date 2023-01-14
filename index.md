@@ -37,6 +37,7 @@ Most of my writing are not publically available, but throughout the years, some 
 
 * SP22 - Math 160: Calculus for Physical Scientists I
 * FA22 - Math 101: Math in the Social Sciences
+* SP22 - Math 101: Math in the Social Sciences
 
 # Papers
 
