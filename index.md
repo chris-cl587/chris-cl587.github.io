@@ -5,7 +5,7 @@ layout: default
 
 ![myself](./photos/csu_math_photo.jpeg)
 
-Hello, I am a second year math graduate student at Colorado State University.
+Hello, I am a third year math graduate student at Colorado State University.
 
 In my past life, I was a [software engineer](https://www.linkedin.com/in/cl587/) at [Coursera](https://www.coursera.org/), helping to make education accessible to all.
 
@@ -29,7 +29,11 @@ Most of my writing are not publically available, but throughout the years, some 
 
 # Presentations
 
-* [Dependent Types with Pie](https://www.youtube.com/watch?v=48lio_3FhAo) - As part of the [Applied Category Theory Seminar](https://www.math.colostate.edu/~jwilson/ACTS.html) at Colorado State University, I presented on the dependent type programming language Pie.
+* [Quick solvers for endomorphisms of modules.](https://thetensor.space/events/GNT-2023#chris-liu) - As part of the [Groups, Nilpotence, and Tensors 2023](https://thetensor.space/events/GNT-2023) conference, I presented on ideas to solve Simultaneous Sylvester Systems - systems of matrix equations of the form XA_i + B_iY = C_i.
+* [The big tent of functional programming
+](https://docs.google.com/presentation/d/1Azr5Cn7AoQ1DVeRxS_56a8qEUIDSt4JtiXUqiTN_eSU/edit#slide=id.p)  - As part of the [Applied Category Theory Seminar](https://csu-applied-category-theory.github.io) at Colorado State University, I presented on the core idea behind functional programming - using types and data flow to program.
+* [Option Data Type](https://docs.google.com/presentation/d/15ujgShfHwgQxYQYe3wx-lozlKmhUAKKmj3b6wMf_hMI/edit#slide=id.p)  - As part of the [Applied Category Theory Seminar](https://csu-applied-category-theory.github.io) at Colorado State University, I presented on the Option data type in Scala, a commonly used monad in functional programming that allows for composing failable operations.
+* [Dependent Types with Pie](https://www.youtube.com/watch?v=48lio_3FhAo) - As part of the [Applied Category Theory Seminar](https://csu-applied-category-theory.github.io) at Colorado State University, I presented on the dependent type programming language Pie.
 * [Kan Condition for Simplicial Sets](https://www.youtube.com/watch?v=HVYsL8NJKtw) - As part of the ACATs seminar, I presented on how to compute with simplicial sets, a generalization of simplicies, which themselves generalize triangles. In particular, unwrapping the category theoretical definitions and the strong/weak Kan conditions to understand how they provide a useful model for higher categories.
 * [ACM/ACM-W at CSU](https://www.cs.colostate.edu/~acm/) presentation - I presented to the ACM (Association for Computing Machinery) and ACM-Women groups at Colorado State University about interviewing for a technical position, drawing on my previous experiences as an interviewer and designer of interviewing questions.
 
@@ -38,6 +42,8 @@ Most of my writing are not publically available, but throughout the years, some 
 * SP22 - Math 160: Calculus for Physical Scientists I
 * FA22 - Math 101: Math in the Social Sciences
 * SP23 - Math 101: Math in the Social Sciences
+* FA23 - Grad TA for Math 560: Linear Algebra
+* SP24 - Math 155: Calculus for Biological Scientists
 
 # Papers
 
