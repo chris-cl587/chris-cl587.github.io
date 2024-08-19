@@ -46,6 +46,7 @@ Most of my writing are not publically available, but throughout the years, some 
 * SP23 - Math 101: Math in the Social Sciences
 * FA23 - Grad TA for Math 560: Linear Algebra
 * SP24 - Math 155: Calculus for Biological Scientists
+* FA24 - Math 101: Math in the Social Sciences
 
 # Papers
 
