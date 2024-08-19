@@ -5,7 +5,7 @@ layout: default
 
 ![myself](./photos/csu_math_photo.jpeg)
 
-Hello, I am a third year math graduate student at Colorado State University.
+Hello, I am a fourth year math graduate student at Colorado State University.
 
 In my past life, I was a [software engineer](https://www.linkedin.com/in/cl587/) at [Coursera](https://www.coursera.org/), helping to make education accessible to all.
 
@@ -28,6 +28,8 @@ Most of my writing are not publically available, but throughout the years, some 
 * [Coursera boosts search speed tenfold](https://resources.algolia.com/customer-stories/coursera)
 
 # Presentations
+
+* [Fast Solutions to Simultaneous Sylvester Systems](https://slides.com/chrisliu/quicksylver-taga24) - As part of the [Tensors Algebra-Geometry-Applications 2024](https://thetensor.space/events/TAGA-2024) conference, I [presented](https://thetensor.space/events/TAGA24-Conference-Resources#chris-liu) on an algorithm for solving tensor equations.
 
 * [Quick solvers for endomorphisms of modules.](https://thetensor.space/events/GNT-2023#chris-liu) - As part of the [Groups, Nilpotence, and Tensors 2023](https://thetensor.space/events/GNT-2023) conference, I presented on ideas to solve Simultaneous Sylvester Systems - systems of matrix equations of the form XA_i + B_iY = C_i.
 * [The big tent of functional programming
