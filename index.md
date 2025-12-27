@@ -29,7 +29,7 @@ Most of my writing are not publically available, but throughout the years, some 
 
 # Presentations
 
-* [Linear invariants of tensors](https://slides.com/chrisliu/linear-invariants-of-tensors) - I visited University of British Columbia to collaborate on some ideas in finding [null patterns](https://arxiv.org/abs/2408.17425) in tensors and gave a talk about some existing work in the area.
+* [Linear invariants of tensors](https://slides.com/chrisliu/linear-invariants-of-tensors) - I visited University of British Columbia in August 2025 to collaborate on some ideas in finding [null patterns](https://arxiv.org/abs/2408.17425) in tensors and gave a talk about some existing work in the area.
 
 * [Simultaneous Sylvester Systems (SSS) and some applications](https://slides.com/chrisliu/mfo-sss) - I partook in Oberwolfach's [computational group theory research meeting](https://publications.mfo.de/bitstream/handle/mfo/4340/OWR_2025_27.pdf) in June 2025 where I presented some results for speeding up certain bottleneck cases of the module endomorphism problem. 
 
