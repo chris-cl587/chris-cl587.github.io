@@ -5,7 +5,7 @@ layout: default
 
 ![myself](./photos/csu_math_photo.jpeg)
 
-Hello, I am a fourth year math graduate student at Colorado State University.
+Hello, I am a fifth year math graduate student at Colorado State University. I am planning on graduating July 2025.
 
 In my past life, I was a [software engineer](https://www.linkedin.com/in/cl587/) at [Coursera](https://www.coursera.org/), helping to make education accessible to all.
 
@@ -29,6 +29,14 @@ Most of my writing are not publically available, but throughout the years, some 
 
 # Presentations
 
+* [Linear invariants of tensors](https://slides.com/chrisliu/linear-invariants-of-tensors) - I visited University of British Columbia to collaborate on some ideas in finding [null patterns](https://arxiv.org/abs/2408.17425) in tensors and gave a talk about some existing work in the area.
+
+* [Simultaneous Sylvester Systems (SSS) and some applications](https://slides.com/chrisliu/mfo-sss) - I partook in Oberwolfach's [computational group theory research meeting](https://publications.mfo.de/bitstream/handle/mfo/4340/OWR_2025_27.pdf) in June 2025 where I presented some results for speeding up certain bottleneck cases of the module endomorphism problem. 
+
+* [Prelim - Computation of algebraic invariants for tensors and product decompositions](https://slides.com/chrisliu/prelim) - Preliminary exam completed in May 2025 as part of CSU Math PhD program requirements
+
+* [W Type](https://slides.com/chrisliu/acts-w-type/) - As part of the Applied Category Theory seminar, I presented on W-types, a generalized recursive type that encompassesses all `well-founded`, or `well-ordered` trees.
+
 * [Fast Solutions to Simultaneous Sylvester Systems](https://slides.com/chrisliu/quicksylver-taga24) - As part of the [Tensors Algebra-Geometry-Applications 2024](https://thetensor.space/events/TAGA-2024) conference, I [presented](https://thetensor.space/events/TAGA24-Conference-Resources#chris-liu) on an algorithm for solving tensor equations.
 
 * [Quick solvers for endomorphisms of modules.](https://thetensor.space/events/GNT-2023#chris-liu) - As part of the [Groups, Nilpotence, and Tensors 2023](https://thetensor.space/events/GNT-2023) conference, I presented on ideas to solve Simultaneous Sylvester Systems - systems of matrix equations of the form XA_i + B_iY = C_i.
@@ -47,8 +55,7 @@ Most of my writing are not publically available, but throughout the years, some 
 * FA23 - Grad TA for Math 560: Linear Algebra
 * SP24 - Math 155: Calculus for Biological Scientists
 * FA24 - Math 101: Math in the Social Sciences
-
-# Papers
-
-Hopefully in due time :)
+* SP25 - Math 261: Calculus for Physical Scientists III
+* FA25 - Math 156: Calculus for Computational Scientists
+* SP26 - Math 156: Calculus for Computational Scientists
 
